@@ -1,4 +1,4 @@
-create database teste_leticia;
+ create database teste_leticia;
 
 USE teste_leticia;
 
